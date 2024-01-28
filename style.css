@@ -1,0 +1,38 @@
+header {
+    width: 1020px;
+    height: 77px;
+    flex-shrink: 0;
+    background: #FFA319;
+}
+body {
+    margin: 0;
+    width: 1020px;
+    height: 573px;
+    background: #AA7D39;
+}
+.paw1 {
+    transform: rotate(25.038deg);
+    flex-shrink: 0;
+    background: url(<https://learn.logikaschool.com/uploads/student/3136930/65ad0bf74947c.png>), lightgray 50% / cover no-repeat;
+}
+.paw2 {
+    width: 86.639px;
+    height: 74.813px;
+    transform: rotate(-13.604deg);
+    flex-shrink: 0;
+    background: url(<https://learn.logikaschool.com/uploads/student/3136930/65ad0bf74947c.png>), lightgray 50% / cover no-repeat;
+}
+.p1 {
+    color: #000;
+    font-family: K2D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.button1 {
+    width: 132px;
+    height: 44px;
+    flex-shrink: 0;
+}
+
